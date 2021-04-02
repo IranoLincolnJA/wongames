@@ -22,7 +22,7 @@
     },
     "games": {
       "collection": "game",
-      "via": "plataforms"
+      "via": "platforms"
     }
   }
 }

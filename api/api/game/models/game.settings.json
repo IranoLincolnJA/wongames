@@ -77,9 +77,9 @@
       "via": "games",
       "dominant": true
     },
-    "plataforms": {
+    "platforms": {
       "via": "games",
-      "collection": "plataform",
+      "collection": "platform",
       "dominant": true
     },
     "publisher": {
